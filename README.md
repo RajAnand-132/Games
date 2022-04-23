@@ -4,10 +4,10 @@ This is the main repository structure with live demo for all of the projects and
 
 |  S.No.  | Games | Live Play |
 |   :-:   | ------- | --------- |
-| 1 | [Breakout]()      | [Play](https://rajanand-132.github.io/Games/Breakout%20Game/)               |
+| 1 | [Breakout]()             | [Play](https://rajanand-132.github.io/Games/Breakout%20Game/)                                 |
 | 2 | [Ceaser Cipher]()        | [Play](https://rajanand-132.github.io/Games/Caesar%20Cipher/caesar_cipher.html)               |
-| 3 | [Car Race]()             | [Play](https://rajanand-132.github.io/Games/Race%20Game/)  |
-| 4 ||[Shooting]()             |[Play](https://rajanand-132.github.io/Games/Shooting%20Game/)
+| 3 | [Car Race]()             | [Play](https://rajanand-132.github.io/Games/Race%20Game/)                                     |
+| 4 | [Shooting]()             | [Play](https://rajanand-132.github.io/Games/Shooting%20Game/)
 
 ## Acknowledgements
 
