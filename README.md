@@ -9,7 +9,7 @@ This is the main repository structure with live demo for all of the projects and
 | 3 | [Shooting](https://github.com/RajAnand-132/Games/tree/main/Shooting%20Game)           | [Play](https://rajanand-132.github.io/Games/Shooting%20Game/)|
 | 4 | [Space Invader](https://github.com/RajAnand-132/Games/tree/main/Simple%20Space%20Invader%20Game%202D%20Game)  |
                                        [Play](https://rajanand-132.github.io/Games/Simple%20Space%20Invader%20Game%202D%20Game/) |
-| 5 | [Typing ](https://github.com/RajAnand-132/Games/tree/main/Typing%20Game)  |[Play](https://rajanand-132.github.io/Games/Typing%20Game/)
+| 5 | [Typing ](https://github.com/RajAnand-132/Games/tree/main/Typing%20Game)  |[Play](https://rajanand-132.github.io/Games/Typing%20Game/)|
 
 ## Acknowledgements
 
