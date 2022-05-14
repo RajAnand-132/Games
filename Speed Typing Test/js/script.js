@@ -1,6 +1,6 @@
 const typingText = document.querySelector(".typing-text p"),
 inpField = document.querySelector(".wrapper .input-field"),
-tryAgainBtn = document.querySelector(".content button"),
+nextParagraph = document.querySelector(".content button"),
 timeTag = document.querySelector(".time span b"),
 mistakeTag = document.querySelector(".mistake span"),
 wpmTag = document.querySelector(".wpm span"),
@@ -98,4 +98,4 @@ function resetGame() {
 
 loadParagraph();
 inpField.addEventListener("input", initTyping);
-tryAgainBtn.addEventListener("click", resetGame);
+nextParagraph.addEventListener("click", resetGame);
