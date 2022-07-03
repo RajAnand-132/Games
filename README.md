@@ -10,10 +10,10 @@ This is the main repository structure with live demo for all of the projects and
 | 4 | [Space Invader](https://github.com/RajAnand-132/Games/tree/main/Simple%20Space%20Invader%20Game%202D%20Game)  | [Play](https://rajanand-132.github.io/Games/Simple%20Space%20Invader%20Game%202D%20Game/) |
 | 5 | [Typing ](https://github.com/RajAnand-132/Games/tree/main/Typing%20Game)  |[Play](https://rajanand-132.github.io/Games/Typing%20Game/) |
 | 6 | [Clean Water](https://github.com/RajAnand-132/Games/tree/main/Water%20Tank) |[Play](https://rajanand-132.github.io/Games/Water%20Tank/) |
-| 7 | [Speed Typing](https://github.com/RajAnand-132/Games/tree/main/Speed%20Typing%20Test) |[Play](https://rajanand-132.github.io/Games/Speed%20Typing%20Test/)
-
+| 7 | [Speed Typing](https://github.com/RajAnand-132/Games/tree/main/Speed%20Typing%20Test) |[Play](https://rajanand-132.github.io/Games/Speed%20Typing%20Test/)|
+| 8 | [Tic Tac Toe]() |[Play]()
 
 
 ## Acknowledgements
 
-The projects discussed in this repo are taken from various sources and the rights to them belongs to their respective owners only. This repo is just a way to build and learn web technologies like HTML, CSS, Bootstrap, Javascript, React and Redux.
+The projects discussed in this repo are refered from various sources and the rights to them belongs to their respective owners also. This repo is just a way to build and learn web technologies like HTML, CSS, Bootstrap, Javascript.
